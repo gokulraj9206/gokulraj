@@ -1,0 +1,189 @@
+*{
+    margin: 0px;
+    padding-bottom: 0%;
+}
+
+.header-part{
+    border: 0px solid black;
+    height: 80px;
+    width: 1305px;
+   
+    background-color: red;
+}
+
+.img{
+    width: 900%;
+    height:900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button{
+    margin-left: 1300px;
+    margin-top:-1100px;
+    font-weight: bolder;
+    
+    color: RED;
+    background-color: RED;
+    }
+.button button{
+    padding: 10PX;
+    border-radius: 8px ;
+    font-size: 18px;
+
+
+}
+.logo{
+  margin-left: 70px;
+  margin-top: -30px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 280px;
+    color: WHITE;
+    font-size: xx-large;
+}
+.title2{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-size: xx-large;
+}
+.title3{
+    text-align: center;
+    margin-top: 40px;
+    color: WHITE;
+    font-size: xx-large;
+}
+.get{
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 50PX;
+   background-color: red;
+    
+}
+.img2{
+    margin-top: 380px;
+    
+}
+.img3{
+    margin-top: -500px;
+    margin-left: 1000px;
+}
+
+.content2{
+    text-align: left;
+    margin-top: -300px;
+    margin-left: 300px;
+}
+.content3{
+    margin-left: 220px;
+}
+.content4{
+    margin-top: 280PX;
+}
+.content5{
+    margin-top: -450px;
+    margin-left: 230px;
+}
+.content6{
+    text-align: center;
+    margin-top: -300px;
+    margin-left: 300px;
+}
+.content7{
+    margin-left: 680px;
+}
+.content8{
+    margin-top: 240px;
+}
+.content9{
+    margin-top: -500px;
+    margin-left: 9]]]]]]]]
+    
+    
+    
+    00px;
+}
+.content10{
+    margin-top: -300px;
+    margin-left: 1000px;
+    font-size: x-large;
+}  
+.content11{
+    margin-bottom: 300px;
+    margin-left: 1000px;
+}
+
+.content12{
+    margin-top: -120px;
+}
+.content13{
+    margin-top: -500PX;
+    margin-left: 150px;
+}
+.cont2{
+    margin-top: -400PX;
+    margin-left: 1010px;
+    font-size: x-large;
+}
+.cont3{
+    margin-left: 1050px;
+    margin-top: 50px;
+    
+}
+.faq{
+    margin-top: 250px;
+    
+}
+.h2{
+    margin-left: -50px;
+    margin-top: -650px;
+    text-align: center;
+    font-size: xx-large;
+}
+.cont4{
+    margin-top:240px;
+}
+
+.list1{
+    margin-top: -500px;
+    margin-left: 300px;
+    font-size:x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.list2{
+    margin-top: -285px;
+    margin-left: 700px;
+    font-size:x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.list3{
+    margin-top: -285px;
+    margin-left: 1150px;
+    font-size:x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.select{
+    margin-left: 300px;
+    margin-top: 50px;
+    
+
+    
+}
+
+.select select{
+    padding: 10PX;
+    font-size: 18px;
+    background-color: transparent;
+    color: white;
+
+}
+.net{
+
+    margin-left: 300px;
+    margin-top: 30px;
+}
